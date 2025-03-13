@@ -1,7 +1,7 @@
 <img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdwd3Rtcm50czdsdTZ2MTRld203OThxaWY2dmhseDlqamo4NDZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
 
 ###
-
+<H3>📞 Contact Me<H3>
 <div align="center">
   <a href="https://www.linkedin.com/in/nawin-shyangba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
