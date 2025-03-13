@@ -76,6 +76,7 @@
 
 <img src="https://raw.githubusercontent.com/nawinshyangba/nawinshyangba/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 <div align="center">
@@ -85,3 +86,6 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/nawinshyangba/nawinshyangba/blob/output/github-snake-dark.svg)
+
