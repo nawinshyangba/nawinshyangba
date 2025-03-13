@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdwd3Rtcm50czdsdTZ2MTRld203OThxaWY2dmhseDlqamo4NDZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
+<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdwd3Rtcm50czdsdTZ2MTRld203OThxaWY2dmhseDlqamo4NDZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
 
 ###
 
@@ -74,8 +74,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nawinshyangba/nawinshyangba/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/nawinshyangba/nawinshyangba/blob/output/github-snake-dark.svg)
 
 ###
 
@@ -84,8 +83,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6arl4ssxy0ciog7jk96va2p3a&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-![snake gif](https://github.com/nawinshyangba/nawinshyangba/blob/output/github-snake-dark.svg)
-
