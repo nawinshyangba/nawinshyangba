@@ -74,10 +74,14 @@
 
 ###
 
-![snake gif](https://github.com/nawinshyangba/nawinshyangba/blob/output/github-snake-dark.svg)
+
+<div align="center">
+  <img src="https://github.com/nawinshyangba/nawinshyangba/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
 
 ###
 
+###
 <div align="center">
   <a href="https://open.spotify.com/user/6arl4ssxy0ciog7jk96va2p3a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6arl4ssxy0ciog7jk96va2p3a&count=5&unique=true" alt="Spotify recently played"  />
