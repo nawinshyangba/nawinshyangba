@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Wanted to solve crimes as a detective,<br> ended up solving data mysteries instead <br>ifferent clues, same thrill <br>
+<p align="left">Wanted to solve crimes as a detective,<br> ended up solving data mysteries instead <br>different clues, same thrill <br>
   ---------------------------------------
   <br>
 🔧 Technologies & Tools: <br>
