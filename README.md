@@ -1,7 +1,7 @@
 <img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdwd3Rtcm50czdsdTZ2MTRld203OThxaWY2dmhseDlqamo4NDZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
 
 ###
-<H3>📞 Contact Me<H3>
+<H3>📬 Let's Connect<H3>
 <div align="center">
   <a href="https://www.linkedin.com/in/nawin-shyangba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -31,7 +31,15 @@
 
 ###
 
-<p align="left">Wanted to solve crimes as a detective,<br> ended up solving data mysteries instead. <br>Different clues, same thrill. <br>Data Analyst - SQL, Python, Excel, Power BI</p>
+<p align="left">Wanted to solve crimes as a detective,<br> ended up solving data mysteries instead <br>ifferent clues, same thrill <br>
+  ---------------------------------------
+  <br>
+🔧 Technologies & Tools: <br>
+SQL: Microsoft SQL Server, MySQL <br>
+Power BI: Dashboards and interactive visualizations <br>
+Excel: Pivot Tables & Power Query <br>
+Python: Data visualization, manipulation and automation <br>
+</p>
 
 ###
 
