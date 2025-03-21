@@ -29,11 +29,11 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-🔧 Technologies & Tools: <br>
-SQL: Microsoft SQL Server, MySQL <br>
-Power BI: Dashboards and interactive visualizations <br>
-Excel: Pivot Tables & Power Query <br>
-Python: Data visualization, manipulation and automation <br>
+**🔧 Technologies & Tools:** <br>
+🛢️ SQL: Microsoft SQL Server, MySQL <br>
+📊 Power BI: Dashboards and interactive visualizations <br>
+📅 Excel: Pivot Tables & Power Query <br>
+🐍 Python: Data visualization, manipulation and automation <br>
 </p>
 
 ###
@@ -85,8 +85,12 @@ Python: Data visualization, manipulation and automation <br>
 ###
 
 ###
+<!--
 <div align="center">
   <a href="https://open.spotify.com/user/6arl4ssxy0ciog7jk96va2p3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6arl4ssxy0ciog7jk96va2p3a&count=5&unique=true" alt="Spotify recently played"  />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=6arl4ssxy0ciog7jk96va2p3a&count=5&unique=true" 
+     alt="Spotify recently played" 
+     width="200" height="200" />
+
   </a>
-</div>
+</div> -->
