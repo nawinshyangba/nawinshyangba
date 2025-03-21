@@ -29,11 +29,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">Wanted to solve crimes as a detective,<br> ended up solving data mysteries instead <br>different clues, same thrill <br>
-  ---------------------------------------
-  <br>
 🔧 Technologies & Tools: <br>
 SQL: Microsoft SQL Server, MySQL <br>
 Power BI: Dashboards and interactive visualizations <br>
